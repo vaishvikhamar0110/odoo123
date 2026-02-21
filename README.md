@@ -1,4 +1,4 @@
-## 🚀 Features
+## 🚀 Features     
 
 - **Astro Framework** - Modern static site generator with server-side rendering
 - **React Integration** - Full React support with JSX components
