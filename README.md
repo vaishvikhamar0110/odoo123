@@ -1,14 +1,10 @@
-# Wixstro - Wix Astro Template
-
-A modern, full-featured Wix Astro template built with React, TypeScript, and Tailwind CSS. This template provides a solid foundation for building dynamic, interactive websites with Wix's powerful ecosystem.
-
 ## 🚀 Features
 
 - **Astro Framework** - Modern static site generator with server-side rendering
 - **React Integration** - Full React support with JSX components
 - **TypeScript** - Type-safe development experience
 - **Tailwind CSS** - Utility-first CSS framework with custom components
-- **Wix Integration** - Seamless integration with Wix services and APIs
+- ** Integration** - Seamless integration with services and APIs
 - **Modern UI Components** - Radix UI components with custom styling
 - **Authentication** - Built-in member authentication and protected routes
 - **CMS Integration** - Content management system integration
@@ -71,7 +67,7 @@ main/
 │   ├── lib/                # Utility functions
 │   ├── pages/              # Astro pages
 │   └── styles/             # Global styles
-├── integrations/           # Wix integrations
+├── integrations/           # integrations
 │   ├── cms/               # CMS integration
 │   └── members/           # Member authentication
 ├── public/                # Static assets
@@ -95,7 +91,6 @@ This template includes a comprehensive set of UI components built with Radix UI 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
-- `npm run release` - Release to Wix
 - `npm run env` - Pull environment variables
 - `npm run check` - Type check with Astro
 - `npm run test:run` - Run tests
@@ -133,15 +128,5 @@ npm run build
 3. Make your changes
 4. Run tests and linting
 5. Submit a pull request
-
-## 🆘 Support
-
-For support and questions:
-
-- Check the [Wix Developer Documentation](https://dev.wix.com/)
-- Review the [Astro Documentation](https://docs.astro.build/)
-
-
----
 
 Built with ❤️ using Wix Vibe, Astro, and modern web technologies.
